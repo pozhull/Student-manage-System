@@ -1,0 +1,21 @@
+
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #eee;
+}
+
+.container .panel{
+	max-width: 400px;
+	margin: 0 auto;
+}
+.container .panel .panel-heading{
+	font-size: 20px;
+	text-align: center;
+}
+.container .panel .panel-body{ 
+	padding:  15px;
+	padding-bottom: 5px;
+}
+
+
